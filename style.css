@@ -1,13 +1,13 @@
 body {
   font-family: sans-serif;
-  background-color: rgb(238,232,213);
-  color: rgb(253,246,227);
+  background-color: grey;
+  color: dimgrey;
 }
 h1 {
-  color: rgb(38, 78, 112);
+  color: darkgrey;
 }
 h2 {
-  color: rgb(42,161,152);
+  color: DarkCyan;
   font: "Quicksand";
 }
 h3 {
@@ -17,7 +17,7 @@ h6 {
   color: rgb(42,161,152);
 }
 li {
-  color: rgb(209, 77, 152);
+  color: rgb(5, 127, 161);
 }
 p {
   font-family: monospace;
@@ -29,23 +29,23 @@ a {
   color: rgb(171, 122, 9);
 }
 .content {
-  background: rgb(0,43,54);
+  background: AliceBlue ;
   padding: 4px;
-  border: 10px solid rgb(211,54,130);
+  border: 10px solid DarkCyan;
   font-family: "Comic Sans MS";
   width: 262px;
   margin: 50px;
 }
 .blog_post {
-  background: rgb(0,43,54);
+  background: AliceBlue ;
   padding: 4px;
-  border: 10px solid rgb(211,54,130);
+  border: 10px solid dimgrey;
   font-family: "Comic Sans MS";
   width: 600px;
   margin: 50px;
 }
 .photo {
-  border: 10px solid rgb(211,54,130);
+  border: 10px solid dimgrey;
   margin: 18px;
 }
 .bananas {
